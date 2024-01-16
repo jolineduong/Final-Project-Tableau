@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-## Create a tableau dashboard of 5 visuals that answered a question I came up, based on the data set I chose.
+## Create a tableau dashboard of 5 visuals that answers a question I came up, based on the data set I chose.
 
 ## Process
 ### Pick a topic that interested me
