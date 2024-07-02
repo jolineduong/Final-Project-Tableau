@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Tableau Project
 
 ## Project/Goals
 Create a tableau dashboard consiting of 5 visuals that answers the question: Where should guests on AirBnb stay in New York based on their group size?
